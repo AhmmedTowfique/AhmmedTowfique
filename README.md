@@ -43,4 +43,3 @@ multicloud portfolio projects, and CKA preparation in progress.
 - 📜 Preparing for the **CKA** (exam planned 2026)
 - 🌐 Based in Munich | Open to DevOps / Platform Engineering roles across Germany
 - 📬 [LinkedIn](https://www.linkedin.com/in/md-towfique-ahmmed-a390105a)
-- 📄 [Interactive CV (EN/DE)](https://ahmmedtowfique.github.io) — or scan the QR code above ↗
