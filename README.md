@@ -1,7 +1,5 @@
 # Md Towfique Ahmmed
 
-<a href="https://ahmmedtowfique.github.io"><img src="assets/cv-qr.png" align="right" width="130" alt="Scan for interactive CV (EN/DE)"></a>
-
 Cloud & DevOps Engineer in Munich. 8+ years in the industry — started as a developer,
 grew into release engineering, infrastructure ownership, and architecture decisions.
 
